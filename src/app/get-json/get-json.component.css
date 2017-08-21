@@ -1,0 +1,27 @@
+* {
+    color: grey;
+}
+
+.black {
+    color: black;
+}
+
+.purple {
+    color: purple;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.key {
+    color: #673ab7;
+}
+
+.value {
+    color: #3f51b5;
+}

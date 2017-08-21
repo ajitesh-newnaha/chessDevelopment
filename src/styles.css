@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+.tableCenter {
+    margin: 0 auto;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+.textLeft {
+    text-align: left;
+}
+
+.textRight {
+    text-align: right;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+ul,
+ol {
+    list-style: none;
+}

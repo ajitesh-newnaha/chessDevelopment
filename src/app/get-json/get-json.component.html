@@ -1,0 +1,15 @@
+<div class="textCenter">
+    <p>How to Get <span class="green">JSON File</span> from the asset folders of the <span class="red">Angular 2 Project</span> is explained in this example.</p>
+    <p><span class="purple">links.json</span> file is placed in the assets folder</p>
+</div>
+<div>
+
+    <table class="tableCenter">
+        <tr *ngFor="let link of linkJsonObject.google_sites;">
+            <td class="key">{{link.country}}</td>
+            <td>-</td>
+            <td class="value">{{link.link}}</td>
+        </tr>
+    </table>
+
+</div>
