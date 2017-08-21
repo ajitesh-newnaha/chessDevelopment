@@ -1,0 +1,12 @@
+{
+    "google_sites": [
+        { "country": "india", "link": "https://www.google.co.in" },
+        { "country": "uk", "link": "https://www.google.co.uk" },
+        { "country": "south africa", "link": "https://www.google.co.za" },
+        { "country": "pakistan", "link": "https://www.google.co.pk" },
+        { "country": "china", "link": "https://www.google.com.hk" },
+        { "country": "australia", "link": "https://www.google.com.au" },
+        { "country": "sri lanka", "link": "https://www.google.lk" },
+        { "country": "bangladesh", "link": "https://www.google.com.bd" }
+    ]
+}

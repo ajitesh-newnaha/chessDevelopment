@@ -1,0 +1,66 @@
+.chessBoardWrapper {
+    padding: 15px;
+    margin: 15px;
+}
+
+
+/* .chessBoardBorder {
+    border: 3px solid indianred;
+} */
+
+.squareBlack {
+    height: 60px;
+    width: 60px;
+    background-color: #337ab7;
+    border: 1px solid gray;
+}
+
+.squareWhite {
+    height: 60px;
+    width: 60px;
+    background-color: #d9edf7;
+    border: 1px solid gray;
+}
+
+.piecesCenter {
+    text-align: center;
+    margin: 10px;
+}
+
+.piecesSize {
+    font-size: xx-large;
+}
+
+.selectedPiece {
+    background-color: red;
+}
+
+.validMoveHint {
+    border: 2px solid red;
+}
+
+span.whitePiece {
+    color: #555;
+    text-shadow: 0 0 2px #000;
+    /* horizontal-offset vertical-offset 'blur' colour */
+    -moz-text-shadow: 0 0 2px #000;
+    -webkit-text-shadow: 0 0 2px #000;
+}
+
+span.blackPiece {
+    color: #000;
+    text-shadow: 0 0 2px #fff;
+    /* horizontal-offset vertical-offset 'blur' colour */
+    -moz-text-shadow: 0 0 2px #fff;
+    -webkit-text-shadow: 0 0 2px #fff;
+}
+
+
+/* Fonts */
+
+
+/*
+@font-face {
+    font-family: "Roboto-Regular";
+    src: url("./assets/fonts/glyphicons-halflings-regular.eot");
+} */
